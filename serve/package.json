@@ -1,0 +1,30 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.9",
+    "alipay-ftof": "^0.1.5",
+    "art-template": "^4.13.2",
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "element": "^0.1.4",
+    "element-ui": "^2.13.0",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "express-session": "^1.17.0",
+    "jquery": "^3.4.1",
+    "md5": "^2.2.1",
+    "mongoose": "^5.9.2",
+    "morgan": "^1.10.0",
+    "vue": "^2.6.11"
+  }
+}

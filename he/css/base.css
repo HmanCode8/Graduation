@@ -1,0 +1,197 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.van-tabbar-item__icon {
+    font-size: 1rem;
+}
+
+.van-swipe__indicator {
+    height: 0.5rem;
+    width: 0.5rem;
+    /*background: #F74FA3;*/
+}
+
+.van-divider {
+    font-size: 0.5rem;
+}
+
+.van-tabs--line .van-tabs__wrap {
+    height: 1.5rem;
+}
+
+.van-tab {
+    font-size: 0.7rem;
+    line-height: 1.5rem;
+}
+
+.van-checkbox {
+    float: left;
+}
+
+.van-checkbox__icon {
+    display: inline-block;
+    font-size: 1rem;
+    margin: 2rem 0 0 0.2rem;
+}
+
+.van-checkbox__icon .van-icon {
+    width: 1rem;
+    height: 1rem;
+}
+
+.el-checkbox__inner {
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+    margin-left: 0.3rem;
+}
+
+
+.el-checkbox__inner::after {
+    height: 0.5rem;
+    width: 0.3rem;
+    left: 0.3rem;
+}
+
+.el-checkbox__label {
+    font-size: 0.6rem;
+}
+
+.van-stepper__minus, .van-stepper__plus {
+    width: 1rem;
+    height: 1rem;
+}
+
+.van-stepper__input {
+    width: 1rem;
+    height: 1rem;
+    font-size: 0.5rem;
+}
+
+.van-radio__icon .van-icon {
+    height: 0.8rem;
+    width: 0.8rem;
+    font-size: 0.5rem;
+    line-height: 0.8rem;
+}
+
+.van-field__label {
+    width: 2rem;
+    padding-right: 0.5rem;
+    text-align: left;
+}
+
+.van-cell {
+    font-size: 0.5rem;
+    line-height: 1rem;
+}
+
+.van-button {
+    height: 1.4rem;
+    line-height: 1.4rem;
+    font-size: 0.6rem;
+}
+
+.van-dialog {
+    width: 10rem;
+    height: 5rem;
+    font-size: 0.6rem;
+}
+
+.van-dialog__header {
+    line-height: 1.5rem;
+}
+
+.el-table th > .cell {
+    text-align: center;
+}
+
+.el-table td, .el-table th {
+    text-align: center;
+}
+
+.avatar-uploader{
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    right: 2rem ;
+
+}
+.el-upload{
+    width: 2rem;
+    height: 2rem;
+    line-height: 2rem;
+}
+.avatar-uploader-icon[data-v-73968b0a]{
+    line-height: 2rem;
+}
+.van-tabs__line{
+    background: #f00;
+    bottom:0.7rem;
+    display: block;
+    width: 0.1rem;
+}
+.el-input__inner{
+    height: 1.5rem;
+    font-size: 0.5rem;
+    background: #eee;
+    color: #000;
+}
+.el-input .el-input__clear{
+    font-size: 0.6rem;
+    line-height: 1.5rem;
+    margin-right: 0.2rem;
+}
+.header[data-v-e551c146] {
+    height: 200px;
+}
+.van-picker__toolbar{
+    height: 1.5rem;
+}
+.van-picker__cancel, .van-picker__confirm{
+    font-size: 0.6rem;
+
+}
+li.van-ellipsis.van-picker-column__item.van-picker-column__item--selected{
+    font-size: 0.6rem;
+}
+.van-popup--bottom[data-v-5121c764]{
+    height: 8rem;
+}
+.el-tabs__item{
+    font-size: 24px;
+    height: 100px;
+    line-height: 100px;
+}
+
+.el-table__header input{
+    font-size: 10px;
+}
+.el-message{
+    font-size: 14px;
+}
+.van-notice-bar{
+    background: #fff;
+}
+.van-sidebar-item--select .van-sidebar-item__text{
+    color: #f00;
+}
+.van-sidebar{
+    width: 15rem;
+    height: 100%;
+}
+.el-table--border{
+    background: rgba(255,255,255,0.5);
+}
+.van-notice-bar__wrap{
+    height: 1.2rem;
+    line-height: 1.2rem;
+    font-size: 0.5rem;
+    margin-top: 0.3rem;
+}
+.van-swipe__indicators{
+    margin-bottom: 0.3rem;
+}
+

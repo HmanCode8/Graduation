@@ -1,0 +1,29 @@
+
+    1.首先要命令启动mongodb数据库
+
+    mongod  命令启动数据
+
+    mongo   启用命令行操作数据库
+
+    1. show dbs 显示所有数据库
+    2. use 数据库名称  进入当前数据库
+    3. show collections 显示当前数据库的所有数据表
+    4. db.数据表.find()
+
+
+    导出数据命令：
+    mongodump -h IP --port 端口 -u 用户名 -p 密码 -d 数据库 -o 文件存在路径
+
+    一般使用：mongodump -h 127.0.0.1 -d 导出的数据库 -o  导出文件放在什么路径下
+
+
+
+    导入数据命令：
+    mongorestore -h IP --port 端口 -u 用户名 -p 密码 -d 数据库 -o 文件存在路径
+
+    一般使用：mongorestore -h 127.0.0.1 -d  为导入的数据库起一个名字  导入文件存在路径\数据库名称
+
+
+
+
+
